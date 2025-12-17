@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/3de72ac1-fbf2-4825-a335-e15f67f685fa/82a2685beb940e1db3b5?experience=power-bi
 
-Sales Analysis Project
+## Sales Analysis Project
 
 A complete end-to-end Data Analytics Project using SQL + Power BI. 
 
