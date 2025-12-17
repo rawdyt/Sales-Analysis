@@ -8,11 +8,11 @@ A complete end-to-end Data Analytics Project using SQL + Power BI.
 
 This project helped me to get more undertanding about the SQL queris and more hands on practice.
 
-### Project Overview
+### Overview
 
-The objective of this project is to demonstrate real-world data cleaning, transformation, and analysis skills using SQL and Power BI, targeting a mid-level Data Analyst role.
+The objective of this project is to show real-world data cleaning, transformation, and analysis skills using SQL and Power BI.
 
-In this project we have cleaned the data in the way such it is get ready for the dashboard creation.
+In this project we have cleaned the data in the way such it will get ready for dashboard creation.
 
 Somewhere we had NULL values, but we can't keeps them as it is so I have also creared the Default values which are best fit for them
 
@@ -265,4 +265,14 @@ Translating business problems into KPIs
 Building story-driven Power BI dashboards
 
 Explaining data decisions clearly for stakeholders
+
+
+### Insights
+
+As we can see we have many low payment throght the payment mode Card, So we should focus this customer segment who do the shopping by the cards and give them some special offers so that maximum customer will do shopping the shop rather than online.
+
+Also, our revenue is getting decreased month by month so we should have to do some marketting capegn and give multiple offers to people.
+And we shoud focus on customer satisfaction so that we can build the regular customer relation.
+
+
 
