@@ -2,13 +2,10 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/3de72ac1-fbf2-4825-a335-e15f67f685fa/82a2685beb940e1db3b5?experience=power-bi
 
-## Sales Analysis Project
-
-A complete end-to-end Data Analytics Project using SQL + Power BI. 
-
-This project helped me to get more undertanding about the SQL queris and more hands on practice.
-
 ### Overview
+
+In this project we going to analize the electronic shop data who is currently facing the issue with getting the sales down by every month 
+We are going to analyize the data and going to drive insights from it to help the buisness to come on track again.
 
 The objective of this project is to show real-world data cleaning, transformation, and analysis skills using SQL and Power BI.
 
