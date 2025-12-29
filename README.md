@@ -7,9 +7,7 @@
 In this project we going to analize the electronic shop data who is currently facing the issue with getting the sales down by every month 
 We are going to analyize the data and going to drive insights from it to help the buisness to come on track again.
 
-The objective of this project is to show real-world data cleaning, transformation, and analysis skills using SQL and Power BI.
-
-In this project we have cleaned the data in the way such it will get ready for dashboard creation.
+The data is massy including the mixed data types and missing values we are going to use SQL and Power BI to clean the data and creating the interactive dashboard.
 
 Somewhere we had NULL values, but we can't keeps them as it is so I have also creared the Default values which are best fit for them
 
@@ -26,7 +24,6 @@ We had mltiple errors in the data for example different kind of date values and 
 * Mixed Data Type
 
 We have used below SQL codes to clean those errors so that we can use this data to create the dashboard.
-
 
 ### Below are the exact SQL queries used to clean the dataset.
 
@@ -196,12 +193,7 @@ status_raw = Order status with case issues & unknown values
 
 payment_raw	= Payment mode with inconsistent formatting
 
-
-### SQL Cleaning & Transformation Approach
-
-All data cleaning was done only using SQL (no Power BI data cleaning).
-
-#### SQL Concepts Covered
+#### SQL commands used
 
 TRY_CAST, TRY_CONVERT
 
@@ -271,5 +263,6 @@ As we can see we have many low payment throght the payment mode Card, So we shou
 Also, our revenue is getting decreased month by month so we should have to do some marketting capegn and give multiple offers to people.
 And we shoud focus on customer satisfaction so that we can build the regular customer relation.
 
+There is huge count of the orders which are kept as pending and order has not been deleverd but we can't anything about the past orders which are kept as pending but actually we cannot delever them now, and we have to find the reason behind this that may be we don't have enough inventory now, having transport issue, Customers are prefering purchaing online we have, but looking at month on month revenue line graph it seems that the revenue in jauary was good but after some time the revenue started gradually decreasing.
 
 
