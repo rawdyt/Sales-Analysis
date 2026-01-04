@@ -283,5 +283,9 @@ This project was extended to include a serverless AWS data pipeline.
 
 📽️ Project walkthrough video:https://1drv.ms/v/c/e0d2e4ac1b1db67c/IQAW7WbxLywyR5t3eJ3cIuL5ATLkPTm5shUxgK3ZoMfrLF0?e=mPQU7M
 
+### Amazon Quick suite Dashboard
+
+![Dashboard]https://raw.githubusercontent.com/rawdyt/Sales-Analysis/main/Sales_Analysis_Qs_Dashboard.png
+
 
 
