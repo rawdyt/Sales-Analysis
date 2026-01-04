@@ -285,7 +285,7 @@ This project was extended to include a serverless AWS data pipeline.
 
 ### Amazon Quick suite Dashboard
 
-![Dashboard]https://raw.githubusercontent.com/rawdyt/Sales-Analysis/main/Sales_Analysis_Qs_Dashboard.png
+![Dashboard](https://raw.githubusercontent.com/rawdyt/Sales-Analysis/main/Sales_Analysis_Qs_Dashboard.png)
 
 
 
