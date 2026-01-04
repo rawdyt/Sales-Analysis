@@ -266,3 +266,22 @@ And we shoud focus on customer satisfaction so that we can build the regular cus
 There is huge count of the orders which are kept as pending and order has not been deleverd but we can't anything about the past orders which are kept as pending but actually we cannot delever them now, and we have to find the reason behind this that may be we don't have enough inventory now, having transport issue, Customers are prefering purchaing online we have, but looking at month on month revenue line graph it seems that the revenue in jauary was good but after some time the revenue started gradually decreasing.
 
 
+AWS Data Pipeline Extension
+
+This project was extended to include a serverless AWS data pipeline.
+
+### Architecture
+- Cleaned sales data uploaded to Amazon S3
+- AWS Glue Crawler to catalog the data
+- Amazon Athena for querying
+- Amazon QuickSight for dashboarding
+
+### Outcome
+- Enabled scalable querying of sales data
+- Replaced manual Power BI refresh with cloud-based analytics
+- Built an end-to-end analytics pipeline
+
+📽️ Project walkthrough video:https://1drv.ms/v/c/e0d2e4ac1b1db67c/IQAW7WbxLywyR5t3eJ3cIuL5ATLkPTm5shUxgK3ZoMfrLF0?e=mPQU7M
+
+
+
